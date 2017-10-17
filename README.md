@@ -1,5 +1,5 @@
 # Cpp-1
-Small program written in C++
+Small program written in C++.
 The program will read data from the file inData.txt and write output to the file outData.txt. Write statements to open both of these files, associate inFile with inData.txt, and associate outFile with outData.txt.
 Suppose that the file inData.txt contains the following data:
           Giselle Robinson Accounting
